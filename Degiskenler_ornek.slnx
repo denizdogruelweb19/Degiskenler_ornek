@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Aritmetik_Operatorler/Aritmetik_Operatorler.csproj" Id="666bce99-b029-452d-affc-0a1087439592" />
+  <Project Path="Aritmetik_operator_ornek/Aritmetik_operator_ornek.csproj" Id="c38bf9ab-90fc-407e-b446-6011896e16dc" />
   <Project Path="Degiskenler_ornek/Degiskenler_ornek.csproj" />
 </Solution>
